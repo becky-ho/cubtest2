@@ -1,1 +1,1 @@
-main檔名系列為程式邏輯三題，自動化測試為autoteat檔名
+main檔名系列為程式邏輯三題，自動化測試為autotest檔名
