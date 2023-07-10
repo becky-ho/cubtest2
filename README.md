@@ -1,1 +1,1 @@
-# cubtest2
+main檔名系列為程式邏輯三題，自動化測試為autoteat檔名
