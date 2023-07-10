@@ -3,8 +3,10 @@
 # 請利用一段程式計算出，最後留下的那位同事，是所有同事裡面的第幾順位?
 
 def find_last_person(n):
-    index = 0
+    if n == 0:
+        return 0
 
+    index = 0
     for i in range(1, n + 1):
         index = (index + 3) % i
 
